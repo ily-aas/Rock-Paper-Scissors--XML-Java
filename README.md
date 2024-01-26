@@ -7,10 +7,10 @@ The user will compete against a computer(for now) where they will select bewteen
 
 ## Game Rules
 
-1). ROCK beats SCISSORS loses to PAPER.
-2). PAPER beats ROCK loses to SCISSORS.
-3). SCISSORS beats ROCK loses ROCK.
-4). In the event of a draw, neither player nor computer recieves a point.
+1. ROCK beats SCISSORS loses to PAPER.
+1. PAPER beats ROCK loses to SCISSORS.
+1. SCISSORS beats ROCK loses ROCK.
+1. In the event of a draw, neither player nor computer recieves a point.
 
 
 
